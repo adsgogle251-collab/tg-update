@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.0.0",
-  "download_url": "https://github.com/adsgogle251-collab/tg-update/releases/download/v3.0.0/Telegram_Automation_Tool.exe",
-  "release_notes": "Rilis resmi Telegram Automation Tool v3.0 Enterprise Platinum."
+  "latest_version": "3.0.1",
+  "release_notes": "Versi Stabil 3.0.1 Enterprise Platinum:\n- Peningkatan Proteksi Akun: Hanya mengeksekusi akun aktif & terverifikasi\n- Auto-Pembersihan Session Zombie & Akun Banned/Inactive\n- Refactor Direct Message & Auto-Reply Anti-Spam Shield\n- Optimalisasi Multi-Session Disk & Sinkronisasi Real-Time",
+  "download_url": "https://github.com/adsgogle251-collab/tg-update/releases/download/v3.0.1/Telegram_Automation_Tool.exe"
 }
