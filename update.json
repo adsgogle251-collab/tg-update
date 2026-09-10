@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.0.1",
-  "release_notes": "Versi Stabil 3.0.1 Enterprise Platinum:\n- Peningkatan Proteksi Akun: Hanya mengeksekusi akun aktif & terverifikasi\n- Auto-Pembersihan Session Zombie & Akun Banned/Inactive\n- Refactor Direct Message & Auto-Reply Anti-Spam Shield\n- Optimalisasi Multi-Session Disk & Sinkronisasi Real-Time",
-  "download_url": "https://github.com/adsgogle251-collab/tg-update/releases/download/v3.0.1/Telegram_Automation_Tool.exe"
+  "latest_version": "3.0.2",
+  "release_notes": "Versi Stabil 3.0.2 Enterprise Platinum:\n- Seleksi Akun Auto Reply: Kotak checklist akun di tab Auto Reply untuk memilih akun pelaksana secara fleksibel\n- Deteksi Akun Deleted/Restricted Telegram: Otomatis mematikan akun yang telah dihapus atau dibatasi saat Cek Session & Auto Reply\n- Tombol & Double-Click Toggle Status: Kemudahan mengaktifkan/menonaktifkan akun manual kapan saja tanpa perlu menghapus\n- Proteksi Ketat Worker: Menghapus fallback file mentah agar 100% patuh pada seleksi akun",
+  "download_url": "https://github.com/adsgogle251-collab/tg-update/releases/download/v3.0.2/Telegram_Automation_Tool.exe"
 }
