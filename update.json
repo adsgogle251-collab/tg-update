@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.0.3",
-  "release_notes": "Versi Stabil 3.0.3 Enterprise Platinum:\n- Integrasi Autopilot Auto-Reply Terpadu: Menjawab semua pesan masuk sebelum akun masuk masa istirahat (cooldown)\n- Bebas bentrok Database Session: Penutupan sesi otomatis yang bersih antar tahap tanpa tabrakan file session\n- Indikator Status Siklus Real-time: Pantau langsung tahap Auto-Search, Auto-Join, Broadcast, Auto-Reply, dan Cooldown",
-  "download_url": "https://github.com/adsgogle251-collab/tg-update/releases/download/v3.0.3/Telegram_Automation_Tool.exe"
+  "latest_version": "3.0.4",
+  "release_notes": "Versi Baru 3.0.4 Enterprise Platinum (Fitur Login QR Code):\n- Fitur Baru: Login Akun Telegram via Scan QR Code langsung dari HP tanpa repot OTP SMS!\n- Tombol 'LOGIN VIA SCAN QR' langsung tersedia di halaman akun\n- Peningkatan ketahanan sesi anti-banned dan anti-flood limit Telegram\n- 100% data sesi (sessions/) dan lisensi HWID tetap utuh tanpa login ulang",
+  "download_url": "https://github.com/adsgogle251-collab/tg-update/releases/download/v3.0.4/Telegram_Automation_Tool.exe"
 }
